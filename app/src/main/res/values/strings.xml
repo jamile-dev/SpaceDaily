@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SpaceDaily</string>
+    <string name="nasa_image">Nasa Image</string>
 </resources>
